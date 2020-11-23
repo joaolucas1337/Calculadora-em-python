@@ -1,13 +1,3 @@
-# Aluno: João Lucas De Souza Soares
-#RA: N622DH-8
-#Turma: CC2A30
-
-#Faça um programa que receba dois números e mais o símbolo da operação (+, -, * e /) e realize o cálculo desses dois números. Uma calculadora:
-#Cada operação deverá ser uma função diferente
-#altere esse programa para que ele fique executando (pedindo os números) até que eu responda N para a pergunta "Deseja continuar (s/n)" 
-
-
-
 def soma(n1, n2):
     return n1 + n2
 
